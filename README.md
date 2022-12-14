@@ -10,3 +10,7 @@ To install:
 9. Start the server by typing "npm start"
 10. On browser go to "localhost:3000"
 
+Replit:
+1. Go to shell
+2. Type "npm start"
+3. Load the website and browse
